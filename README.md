@@ -1,5 +1,4 @@
 # Clinical Report Analyzer
-## Overview:
 The Clinical Report Analyzer is a sophisticated tool designed to empower healthcare professionals, researchers, and developers in extracting critical insights from medical reports. Leveraging advanced Natural Language Processing (NLP) techniques and BERT-based question-answering, this project offers a comprehensive solution for in-depth analysis of clinical data.
 
 ## Key Features:
