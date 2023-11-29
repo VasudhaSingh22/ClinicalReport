@@ -41,6 +41,9 @@ The project is built upon a diverse clinical report dataset sourced from reputab
    - Leverage BERT models for precise question-answering on medical reports.
    - Customize input and questions to retrieve accurate answers.
 
-## Conclusion:
+## Conclusion
+
 Clinical Report Analyzer presents a powerful solution for medical report analysis, seamlessly integrating NLP and BERT-based question-answering. This tool not only enhances disease label extraction but also facilitates nuanced keyword insights. Its capabilities empower healthcare professionals with advanced data interpretation, streamlining diagnostic processes and contributing to more informed medical decisions.
+
+**PS: Before running the project, make sure to download the necessary file in the models folder from [here]([link-to-your-downloadable-file](https://drive.google.com/file/d/1FzQteAgbYFHAwPO7Xtd51AJ-hL94X5Xe/view?usp=sharing)https://drive.google.com/file/d/1FzQteAgbYFHAwPO7Xtd51AJ-hL94X5Xe/view?usp=sharing).**
 
